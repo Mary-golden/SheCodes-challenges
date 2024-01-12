@@ -1,0 +1,1 @@
+This file will be a combination of all of my SheCodes challenges that I had to complete on the first week of SheCodes. This is basically just the fundamentals of HTML and CSS, we cover html elements, attributes, selectors, properties, CSS colors, CSS positioning, CSS spacing, CSS borders, CSS Pseudo-selectors, and so many things to cover. 
